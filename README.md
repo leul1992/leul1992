@@ -4,7 +4,8 @@
 🔹 **Gold Fellow at ALX Institute**  
 
 ### 🏆 Experience:
-- **Interned** at Dallol Tech (React & Tailwind)
+- **Front-End Developer** at Dallol Tech (React & Tailwind)
+- **Back-End Developer** at Ablaze Labs (Nestjs)
 
 ## 📜 Certifications & Learning:
 - **Gold Fellow**, ALX Institute - Top 5% performer in software engineering.
