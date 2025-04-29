@@ -33,5 +33,6 @@
 #### **Artificial Intelligence** - Exploring applications of AI and how it works.
 
 ### 🌍 Let's Connect:
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayalew.leulseged.bekele@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leulseged-ayalew-352a461a0/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Leulbkm)
